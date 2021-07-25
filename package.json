@@ -1,0 +1,16 @@
+{
+    "name": "text-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d src"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://DeveloperOmarFaruk.github.io/text-generator",
+    "dependencies": {
+        "gh-pages": "^3.2.3"
+    }
+}
